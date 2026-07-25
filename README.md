@@ -4,4 +4,4 @@ week-2-statistics
 
 1) Descriptive statistics
 
-2)Formulation of the null/alternative hypothesis
+2) Formulation of the null/alternative   hypothesis
