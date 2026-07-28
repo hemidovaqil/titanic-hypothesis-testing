@@ -9,3 +9,5 @@ week-2-statistics
 3) ANOVA Analysis of Car Prices
 
 4) Statistical Analysis (t-test and confidence interval)
+
+5) Hypothesis testing prior to parametric testing
