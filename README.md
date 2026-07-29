@@ -11,3 +11,6 @@ week-2-statistics
 4) Statistical Analysis (t-test and confidence interval)
 
 5) Hypothesis testing prior to parametric testing
+
+6) Business Interpretation of Results
+
